@@ -1,0 +1,10 @@
+my_weight
+my_height <- 183
+my_weight <- 70
+
+
+bmi <- (my_weight) / (my_height / 100)^2
+bmi
+
+my_name <- "Wei"
+my_name
