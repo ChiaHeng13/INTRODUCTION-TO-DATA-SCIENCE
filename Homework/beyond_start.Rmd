@@ -1,0 +1,4 @@
+beyond_start <- as.Date(" 1983-12-31")
+as.integer( 1983-12-31)
+
+beyond_start <- as.Date("1983-12-31")
