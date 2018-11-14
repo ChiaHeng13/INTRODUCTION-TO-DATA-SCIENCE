@@ -1,0 +1,7 @@
+major_quake_time <- "1999-09-21 01:47:16"
+first_aftershock_time <- "1999-09-21 01:57:15"
+
+major_quake_time <- as.POSIXct("1999-09-21 01:47:16")
+first_aftershock_time <- as.POSIXct("1999-09-21 01:57:15")
+first_aftershock_time - major_quake_time
+
