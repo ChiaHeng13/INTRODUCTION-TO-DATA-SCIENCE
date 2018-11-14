@@ -1,0 +1,6 @@
+beyond_start <- as.Date(" 1983-12-31")
+as.integer( 1983-12-31)
+beyond_start <- as.Date("1983-12-31")
+days_diff <- Sys.Date() - beyond_start # 計算天數差距
+years_diff <- days_diff / 365 # 除以 365 換算成年
+years_diff
