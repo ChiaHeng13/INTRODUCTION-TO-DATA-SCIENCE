@@ -1,0 +1,7 @@
+my_mat <- matrix(1:9, nrow = 3)
+my_mat[2,3]
+
+my_mat <- matrix(1:9, nrow = 3)
+filter <- my_mat %% 2 ==1
+my_mat[filter]
+
