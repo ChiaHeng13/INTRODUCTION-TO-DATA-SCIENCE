@@ -1,0 +1,13 @@
+pi
+ceiling(pi)
+floor(pi)
+round(pi, digits = pi)
+
+
+today_char <- "Today is:"
+sys_date <- Sys.Date()
+paste(today_char,sys_date)
+
+num_vector <- c(11:14, NA)
+sum(11:14, na.rm = TRUE)
+median(11:14, na.rm = TRUE)
