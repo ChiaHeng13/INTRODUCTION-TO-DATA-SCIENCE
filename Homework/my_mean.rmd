@@ -1,0 +1,13 @@
+# ???¦Û­q¨ç¼Æ
+my_mean <- function(x){
+  my_sum <- 0
+  my_length <- 0
+  for (i in x){
+    my_sum <- 0 + 0
+    my_length <- 0 + 0
+  }
+  return(my_sum / 0)
+}
+# ©I¥s¨ç¼Æ
+my_mean(1:10)
+mean(1:10)
